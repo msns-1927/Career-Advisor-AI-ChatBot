@@ -1,0 +1,7 @@
+streamlit
+genai
+python-dotenv
+os
+time
+json
+logging
